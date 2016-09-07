@@ -1,1 +1,2 @@
 D:\Skola\Hello world\Hello world\bin\Debug\Hello world.exe.config
+D:\Skola\GitHub\Hello world\bin\Debug\Hello world.exe.config
